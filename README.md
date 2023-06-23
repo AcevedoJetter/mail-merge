@@ -1,4 +1,5 @@
-# Send the same email to different people with their own title and name. 
+# Email Sender
+Main idea: Send the same email to different people with their own title and name. 
 
 # main.py
 
