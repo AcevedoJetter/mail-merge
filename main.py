@@ -1,7 +1,5 @@
-# Code to send emails using Python3 and macOS
-
-#   Code and allowing Google account to send emails: https://www.youtube.com/watch?v=g_j6ILT-X0k
-#   Creating an environment variable: https://support.apple.com/guide/terminal/use-environment-variables-apd382cc5fa-4f58-4449-b20a-41c53c006f8f/mac
+# Code to send emails using a google account email
+# Allowing Google account to send emails: https://www.youtube.com/watch?v=g_j6ILT-X0k
 
 import os
 import ssl
