@@ -8,3 +8,6 @@ Follow the isntruction in [this video](https://www.youtube.com/watch?v=g_j6ILT-X
 `main.py`: Write the body of the email by editing this file. Write the body in the variable called `body` which is a f-string
 
 `people.txt`: Write the title, last name, and email separated by spaces. Separate each different person with a new line. Example: `Dr. Foo foo@bar.com`
+
+# How to run the file
+In the command line, run `python3 main.py`
