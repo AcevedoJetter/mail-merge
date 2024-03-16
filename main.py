@@ -39,3 +39,5 @@ SIGNATURE
         smtp.sendmail(email_sender, email_receiver, msg.as_string())
 
 f.close()
+
+print("emails sent")
